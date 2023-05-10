@@ -1,0 +1,337 @@
+5.0278 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002A0BDAA1160>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002A0BE140668>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1280, 1024]), stereo=False, units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.0279 	EXP 	window1: recordFrameIntervals = False
+5.1932 	EXP 	window1: recordFrameIntervals = True
+5.3777 	EXP 	window1: recordFrameIntervals = False
+5.4543 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0, pos=array([0. , 0.5]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+5.4568 	EXP 	Created image_1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_1', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), size=array([1., 1.]), texRes=128, units='norm', win=Window(...))
+5.4619 	EXP 	Created ValenceImg = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='sam image.png', interpolate=True, mask=None, maskParams=None, name='ValenceImg', opacity=1.0, ori=0.0, pos=array([ 0. , -0.3]), size=array([1.0125    , 0.30078125]), texRes=128, units='norm', win=Window(...))
+5.4695 	EXP 	Created unnamed GratingStim = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, autoDraw=False, autoLog=True, blendmode='avg', color='LightGray', colorSpace='named', contrast=1.0, depth=0, interpolate=False, mask='none', maskParams=None, name='unnamed GratingStim', opacity=1.0, ori=0.0, phase=array([0., 0.]), pos=array([ 0. , -0.6]), rgbPedestal=array([0., 0., 0.]), sf=array([0., 0.]), size=array([1.  , 0.01]), tex='sin', texRes=128, units='norm', win=Window(...))
+5.4717 	EXP 	Created unnamed ElementArrayStim = ElementArrayStim(__class__=type(...), autoLog=True, colorSpace='named', colors='LightGray', contrs=array([1., 1., 1., 1., 1.]), depths=0, elementMask=method-wrapper(...), elementTex=method-wrapper(...), fieldDepth=0, fieldPos=array([0., 0.]), fieldShape='circle', fieldSize=array([1., 1.]), interpolate=True, maskParams=None, nElements=5, name='unnamed ElementArrayStim', opacities=array([1., 1., 1., 1., 1.]), oris=array([0., 0., 0., 0., 0.]), phases=ndarray(...), rgbs=ndarray(...), sfs=ndarray(...), sizes=ndarray(...), texRes=48, units='norm', win=Window(...), xys=ndarray(...))
+5.4733 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0, fillColor='red', fillColorSpace='named', fillRGB=array([255.,   0.,   0.]), interpolate=True, lineColor='red', lineColorSpace='named', lineRGB=array([255.,   0.,   0.]), lineWidth=1.5, name='unnamed Circle', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([0.05  , 0.0625]), units='norm', vertices=ndarray(...), win=Window(...))
+5.4739 	EXP 	Created unnamed Rect = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', fillRGB=None, interpolate=True, lineColor='DarkGrey', lineColorSpace='named', lineRGB=array([169., 169., 169.]), lineWidth=1.5, name='unnamed Rect', opacity=1.0, ori=array(0.), pos=array([ 0. , -0.6]), size=array([1., 1.]), units='norm', vertices=ndarray(...), win=Window(...))
+5.4743 	EXP 	Created slider_valence = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, color='LightGray', depth=0, flip=False, font='HelveticaBold', granularity=1, labelHeight=0.05, labels=None, name='slider_valence', pos=(0, -0.6), readOnly=False, self=UNKNOWN, size=(1, 0.05), style=method-wrapper(...), ticks=array([  1,  25,  50,  75, 100]), units='norm', win=Window(...))
+5.4956 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([ 0. , -0.3]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=2)
+5.5144 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0, pos=array([ 0. , -0.9]), rgb=array([255., 255., 255.]), text='Press {Space} to continue', units='norm', win=Window(...), wrapWidth=2)
+5.5191 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0, pos=array([0. , 0.5]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+5.5205 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), size=array([1., 1.]), texRes=128, units='norm', win=Window(...))
+5.5254 	EXP 	Created Arousalimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='sam arousal.png', interpolate=True, mask=None, maskParams=None, name='Arousalimage', opacity=1.0, ori=0.0, pos=array([ 0. , -0.3]), size=array([1.0109375 , 0.29882812]), texRes=128, units='norm', win=Window(...))
+5.5275 	EXP 	Created unnamed GratingStim = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, autoDraw=False, autoLog=True, blendmode='avg', color='LightGray', colorSpace='named', contrast=1.0, depth=0, interpolate=False, mask='none', maskParams=None, name='unnamed GratingStim', opacity=1.0, ori=0.0, phase=array([0., 0.]), pos=array([ 0. , -0.6]), rgbPedestal=array([0., 0., 0.]), sf=array([0., 0.]), size=array([1.  , 0.01]), tex='sin', texRes=128, units='norm', win=Window(...))
+5.5296 	EXP 	Created unnamed ElementArrayStim = ElementArrayStim(__class__=type(...), autoLog=True, colorSpace='named', colors='LightGray', contrs=array([1., 1., 1., 1., 1.]), depths=0, elementMask=method-wrapper(...), elementTex=method-wrapper(...), fieldDepth=0, fieldPos=array([0., 0.]), fieldShape='circle', fieldSize=array([1., 1.]), interpolate=True, maskParams=None, nElements=5, name='unnamed ElementArrayStim', opacities=array([1., 1., 1., 1., 1.]), oris=array([0., 0., 0., 0., 0.]), phases=ndarray(...), rgbs=ndarray(...), sfs=ndarray(...), sizes=ndarray(...), texRes=48, units='norm', win=Window(...), xys=ndarray(...))
+5.5311 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0, fillColor='red', fillColorSpace='named', fillRGB=array([255.,   0.,   0.]), interpolate=True, lineColor='red', lineColorSpace='named', lineRGB=array([255.,   0.,   0.]), lineWidth=1.5, name='unnamed Circle', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([0.05  , 0.0625]), units='norm', vertices=ndarray(...), win=Window(...))
+5.5317 	EXP 	Created unnamed Rect = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', fillRGB=None, interpolate=True, lineColor='DarkGrey', lineColorSpace='named', lineRGB=array([169., 169., 169.]), lineWidth=1.5, name='unnamed Rect', opacity=1.0, ori=array(0.), pos=array([ 0. , -0.6]), size=array([1., 1.]), units='norm', vertices=ndarray(...), win=Window(...))
+5.5320 	EXP 	Created slider_arousal = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, color='LightGray', depth=0, flip=False, font='HelveticaBold', granularity=1, labelHeight=0.05, labels=None, name='slider_arousal', pos=(0, -0.6), readOnly=False, self=UNKNOWN, size=(1, 0.05), style=method-wrapper(...), ticks=array([  1,  25,  50,  75, 100]), units='norm', win=Window(...))
+5.5452 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([ 0. , -0.3]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=2.3)
+5.5509 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0, pos=array([ 0. , -0.9]), rgb=array([255., 255., 255.]), text='Press {Space} to continue', units='norm', win=Window(...), wrapWidth=1)
+5.5621 	EXP 	Imported CueRatings.xlsx as conditions, 18 conditions, 2 params
+5.5624 	EXP 	Created sequence: random, trialTypes=18, nReps=1, seed=None
+5.5627 	EXP 	New trial (rep=0, index=0): OrderedDict([('words', None), ('images', 'Pictures/1051.jpg')])
+5.6141 	EXP 	slider_valence: autoLog = True
+5.6141 	EXP 	slider_valence: markerPos = None
+5.6141 	EXP 	slider_valence: rating = None
+5.6141 	EXP 	slider_valence: markerPos = None
+5.6141 	EXP 	unnamed Circle: contrast = 1.0
+5.6141 	EXP 	unnamed GratingStim: contrast = 1.0
+5.6141 	EXP 	slider_valence: contrast = 1.0
+5.6141 	EXP 	slider_valence: autoLog = True
+5.6141 	EXP 	slider_valence: style = ('rating',)
+5.6141 	EXP 	slider_arousal: autoLog = True
+5.6141 	EXP 	slider_arousal: markerPos = None
+5.6141 	EXP 	slider_arousal: rating = None
+5.6141 	EXP 	slider_arousal: markerPos = None
+5.6141 	EXP 	unnamed Circle: contrast = 1.0
+5.6141 	EXP 	unnamed GratingStim: contrast = 1.0
+5.6141 	EXP 	slider_arousal: contrast = 1.0
+5.6141 	EXP 	slider_arousal: autoLog = True
+5.6141 	EXP 	slider_arousal: style = ('rating',)
+5.6141 	EXP 	text_6: text = 'default text'
+5.6141 	EXP 	image_1: image = 'Pictures/1051.jpg'
+5.6141 	EXP 	slider_valence: markerPos = None
+5.6141 	EXP 	slider_valence: markerPos = None
+5.6141 	EXP 	slider_valence: rating = None
+5.6141 	EXP 	text_6: autoDraw = True
+5.6141 	EXP 	image_1: autoDraw = True
+5.6141 	EXP 	ValenceImg: autoDraw = True
+5.6141 	EXP 	slider_valence: autoDraw = True
+5.6141 	EXP 	text: autoDraw = True
+5.6141 	EXP 	text_3: autoDraw = True
+6.0779 	DATA 	Keypress: space
+6.1172 	EXP 	text_6: autoDraw = False
+6.1172 	EXP 	image_1: autoDraw = False
+6.1172 	EXP 	ValenceImg: autoDraw = False
+6.1172 	EXP 	slider_valence: autoDraw = False
+6.1172 	EXP 	text: autoDraw = False
+6.1172 	EXP 	text_3: autoDraw = False
+6.1172 	EXP 	text_5: text = 'default text'
+6.1172 	EXP 	image_2: image = 'Pictures/1051.jpg'
+6.1172 	EXP 	slider_arousal: markerPos = None
+6.1172 	EXP 	slider_arousal: markerPos = None
+6.1172 	EXP 	slider_arousal: rating = None
+6.1172 	EXP 	text_5: autoDraw = True
+6.1172 	EXP 	image_2: autoDraw = True
+6.1172 	EXP 	Arousalimage: autoDraw = True
+6.1172 	EXP 	slider_arousal: autoDraw = True
+6.1172 	EXP 	text_2: autoDraw = True
+6.1172 	EXP 	text_4: autoDraw = True
+7.0776 	DATA 	Keypress: space
+7.0786 	EXP 	New trial (rep=0, index=1): OrderedDict([('words', 'birthday'), ('images', None)])
+7.0948 	EXP 	text_5: autoDraw = False
+7.0948 	EXP 	image_2: autoDraw = False
+7.0948 	EXP 	Arousalimage: autoDraw = False
+7.0948 	EXP 	slider_arousal: autoDraw = False
+7.0948 	EXP 	text_2: autoDraw = False
+7.0948 	EXP 	text_4: autoDraw = False
+7.0948 	EXP 	text_6: text = 'birthday'
+7.0948 	EXP 	image_1: image = None
+7.0948 	EXP 	slider_valence: markerPos = None
+7.0948 	EXP 	slider_valence: markerPos = None
+7.0948 	EXP 	slider_valence: rating = None
+7.0948 	EXP 	text_6: autoDraw = True
+7.0948 	EXP 	image_1: autoDraw = True
+7.0948 	EXP 	ValenceImg: autoDraw = True
+7.0948 	EXP 	slider_valence: autoDraw = True
+7.0948 	EXP 	text: autoDraw = True
+7.0948 	EXP 	text_3: autoDraw = True
+7.6606 	DATA 	Keypress: space
+7.6929 	EXP 	text_6: autoDraw = False
+7.6929 	EXP 	image_1: autoDraw = False
+7.6929 	EXP 	ValenceImg: autoDraw = False
+7.6929 	EXP 	slider_valence: autoDraw = False
+7.6929 	EXP 	text: autoDraw = False
+7.6929 	EXP 	text_3: autoDraw = False
+7.6929 	EXP 	text_5: text = 'birthday'
+7.6929 	EXP 	image_2: image = None
+7.6929 	EXP 	slider_arousal: markerPos = None
+7.6929 	EXP 	slider_arousal: markerPos = None
+7.6929 	EXP 	slider_arousal: rating = None
+7.6929 	EXP 	text_5: autoDraw = True
+7.6929 	EXP 	image_2: autoDraw = True
+7.6929 	EXP 	Arousalimage: autoDraw = True
+7.6929 	EXP 	slider_arousal: autoDraw = True
+7.6929 	EXP 	text_2: autoDraw = True
+7.6929 	EXP 	text_4: autoDraw = True
+8.7609 	DATA 	Keypress: space
+8.7630 	EXP 	New trial (rep=0, index=2): OrderedDict([('words', 'coward'), ('images', None)])
+8.7937 	EXP 	text_5: autoDraw = False
+8.7937 	EXP 	image_2: autoDraw = False
+8.7937 	EXP 	Arousalimage: autoDraw = False
+8.7937 	EXP 	slider_arousal: autoDraw = False
+8.7937 	EXP 	text_2: autoDraw = False
+8.7937 	EXP 	text_4: autoDraw = False
+8.7937 	EXP 	text_6: text = 'coward'
+8.7937 	EXP 	image_1: image = None
+8.7937 	EXP 	slider_valence: markerPos = None
+8.7937 	EXP 	slider_valence: markerPos = None
+8.7937 	EXP 	slider_valence: rating = None
+8.7937 	EXP 	text_6: autoDraw = True
+8.7937 	EXP 	image_1: autoDraw = True
+8.7937 	EXP 	ValenceImg: autoDraw = True
+8.7937 	EXP 	slider_valence: autoDraw = True
+8.7937 	EXP 	text: autoDraw = True
+8.7937 	EXP 	text_3: autoDraw = True
+9.2767 	DATA 	Keypress: space
+9.2930 	EXP 	text_6: autoDraw = False
+9.2930 	EXP 	image_1: autoDraw = False
+9.2930 	EXP 	ValenceImg: autoDraw = False
+9.2930 	EXP 	slider_valence: autoDraw = False
+9.2930 	EXP 	text: autoDraw = False
+9.2930 	EXP 	text_3: autoDraw = False
+9.2930 	EXP 	text_5: text = 'coward'
+9.2930 	EXP 	image_2: image = None
+9.2930 	EXP 	slider_arousal: markerPos = None
+9.2930 	EXP 	slider_arousal: markerPos = None
+9.2930 	EXP 	slider_arousal: rating = None
+9.2930 	EXP 	text_5: autoDraw = True
+9.2930 	EXP 	image_2: autoDraw = True
+9.2930 	EXP 	Arousalimage: autoDraw = True
+9.2930 	EXP 	slider_arousal: autoDraw = True
+9.2930 	EXP 	text_2: autoDraw = True
+9.2930 	EXP 	text_4: autoDraw = True
+9.6264 	DATA 	Keypress: escape
+9.6487 	EXP 	window1: mouseVisible = True
+4.8022 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002187F101160>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002187F7B0668>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1280, 1024]), stereo=False, units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.8022 	EXP 	window1: recordFrameIntervals = False
+4.9677 	EXP 	window1: recordFrameIntervals = True
+5.1512 	EXP 	window1: recordFrameIntervals = False
+5.2155 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0, pos=array([0. , 0.5]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+5.2176 	EXP 	Created image_1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_1', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), size=array([1., 1.]), texRes=128, units='norm', win=Window(...))
+5.2227 	EXP 	Created ValenceImg = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='sam image.png', interpolate=True, mask=None, maskParams=None, name='ValenceImg', opacity=1.0, ori=0.0, pos=array([ 0. , -0.3]), size=array([1.0125    , 0.30078125]), texRes=128, units='norm', win=Window(...))
+5.2302 	EXP 	Created unnamed GratingStim = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, autoDraw=False, autoLog=True, blendmode='avg', color='LightGray', colorSpace='named', contrast=1.0, depth=0, interpolate=False, mask='none', maskParams=None, name='unnamed GratingStim', opacity=1.0, ori=0.0, phase=array([0., 0.]), pos=array([ 0. , -0.6]), rgbPedestal=array([0., 0., 0.]), sf=array([0., 0.]), size=array([1.  , 0.01]), tex='sin', texRes=128, units='norm', win=Window(...))
+5.2323 	EXP 	Created unnamed ElementArrayStim = ElementArrayStim(__class__=type(...), autoLog=True, colorSpace='named', colors='LightGray', contrs=array([1., 1., 1., 1., 1.]), depths=0, elementMask=method-wrapper(...), elementTex=method-wrapper(...), fieldDepth=0, fieldPos=array([0., 0.]), fieldShape='circle', fieldSize=array([1., 1.]), interpolate=True, maskParams=None, nElements=5, name='unnamed ElementArrayStim', opacities=array([1., 1., 1., 1., 1.]), oris=array([0., 0., 0., 0., 0.]), phases=ndarray(...), rgbs=ndarray(...), sfs=ndarray(...), sizes=ndarray(...), texRes=48, units='norm', win=Window(...), xys=ndarray(...))
+5.2339 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0, fillColor='red', fillColorSpace='named', fillRGB=array([255.,   0.,   0.]), interpolate=True, lineColor='red', lineColorSpace='named', lineRGB=array([255.,   0.,   0.]), lineWidth=1.5, name='unnamed Circle', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([0.05  , 0.0625]), units='norm', vertices=ndarray(...), win=Window(...))
+5.2345 	EXP 	Created unnamed Rect = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', fillRGB=None, interpolate=True, lineColor='DarkGrey', lineColorSpace='named', lineRGB=array([169., 169., 169.]), lineWidth=1.5, name='unnamed Rect', opacity=1.0, ori=array(0.), pos=array([ 0. , -0.6]), size=array([1., 1.]), units='norm', vertices=ndarray(...), win=Window(...))
+5.2348 	EXP 	Created slider_valence = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, color='LightGray', depth=0, flip=False, font='HelveticaBold', granularity=1, labelHeight=0.05, labels=None, name='slider_valence', pos=(0, -0.6), readOnly=False, self=UNKNOWN, size=(1, 0.05), style=method-wrapper(...), ticks=array([  1,  25,  50,  75, 100]), units='norm', win=Window(...))
+5.2564 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([ 0. , -0.3]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=2)
+5.2756 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0, pos=array([ 0. , -0.9]), rgb=array([255., 255., 255.]), text='Press {Space} to continue', units='norm', win=Window(...), wrapWidth=2)
+5.2801 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0, pos=array([0. , 0.5]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+5.2817 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), size=array([1., 1.]), texRes=128, units='norm', win=Window(...))
+5.2865 	EXP 	Created Arousalimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='sam arousal.png', interpolate=True, mask=None, maskParams=None, name='Arousalimage', opacity=1.0, ori=0.0, pos=array([ 0. , -0.3]), size=array([1.0109375 , 0.29882812]), texRes=128, units='norm', win=Window(...))
+5.2885 	EXP 	Created unnamed GratingStim = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, autoDraw=False, autoLog=True, blendmode='avg', color='LightGray', colorSpace='named', contrast=1.0, depth=0, interpolate=False, mask='none', maskParams=None, name='unnamed GratingStim', opacity=1.0, ori=0.0, phase=array([0., 0.]), pos=array([ 0. , -0.6]), rgbPedestal=array([0., 0., 0.]), sf=array([0., 0.]), size=array([1.  , 0.01]), tex='sin', texRes=128, units='norm', win=Window(...))
+5.2907 	EXP 	Created unnamed ElementArrayStim = ElementArrayStim(__class__=type(...), autoLog=True, colorSpace='named', colors='LightGray', contrs=array([1., 1., 1., 1., 1.]), depths=0, elementMask=method-wrapper(...), elementTex=method-wrapper(...), fieldDepth=0, fieldPos=array([0., 0.]), fieldShape='circle', fieldSize=array([1., 1.]), interpolate=True, maskParams=None, nElements=5, name='unnamed ElementArrayStim', opacities=array([1., 1., 1., 1., 1.]), oris=array([0., 0., 0., 0., 0.]), phases=ndarray(...), rgbs=ndarray(...), sfs=ndarray(...), sizes=ndarray(...), texRes=48, units='norm', win=Window(...), xys=ndarray(...))
+5.2922 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0, fillColor='red', fillColorSpace='named', fillRGB=array([255.,   0.,   0.]), interpolate=True, lineColor='red', lineColorSpace='named', lineRGB=array([255.,   0.,   0.]), lineWidth=1.5, name='unnamed Circle', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([0.05  , 0.0625]), units='norm', vertices=ndarray(...), win=Window(...))
+5.2928 	EXP 	Created unnamed Rect = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', fillRGB=None, interpolate=True, lineColor='DarkGrey', lineColorSpace='named', lineRGB=array([169., 169., 169.]), lineWidth=1.5, name='unnamed Rect', opacity=1.0, ori=array(0.), pos=array([ 0. , -0.6]), size=array([1., 1.]), units='norm', vertices=ndarray(...), win=Window(...))
+5.2931 	EXP 	Created slider_arousal = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, color='LightGray', depth=0, flip=False, font='HelveticaBold', granularity=1, labelHeight=0.05, labels=None, name='slider_arousal', pos=(0, -0.6), readOnly=False, self=UNKNOWN, size=(1, 0.05), style=method-wrapper(...), ticks=array([  1,  25,  50,  75, 100]), units='norm', win=Window(...))
+5.3067 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([ 0. , -0.3]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=2.5)
+5.3122 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0, pos=array([ 0. , -0.9]), rgb=array([255., 255., 255.]), text='Press {Space} to continue', units='norm', win=Window(...), wrapWidth=1)
+5.3242 	EXP 	Imported CueRatings.xlsx as conditions, 18 conditions, 2 params
+5.3245 	EXP 	Created sequence: random, trialTypes=18, nReps=1, seed=None
+5.3247 	EXP 	New trial (rep=0, index=0): OrderedDict([('words', 'coward'), ('images', None)])
+5.3621 	EXP 	slider_valence: autoLog = True
+5.3621 	EXP 	slider_valence: markerPos = None
+5.3621 	EXP 	slider_valence: rating = None
+5.3621 	EXP 	slider_valence: markerPos = None
+5.3621 	EXP 	unnamed Circle: contrast = 1.0
+5.3621 	EXP 	unnamed GratingStim: contrast = 1.0
+5.3621 	EXP 	slider_valence: contrast = 1.0
+5.3621 	EXP 	slider_valence: autoLog = True
+5.3621 	EXP 	slider_valence: style = ('rating',)
+5.3621 	EXP 	slider_arousal: autoLog = True
+5.3621 	EXP 	slider_arousal: markerPos = None
+5.3621 	EXP 	slider_arousal: rating = None
+5.3621 	EXP 	slider_arousal: markerPos = None
+5.3621 	EXP 	unnamed Circle: contrast = 1.0
+5.3621 	EXP 	unnamed GratingStim: contrast = 1.0
+5.3621 	EXP 	slider_arousal: contrast = 1.0
+5.3621 	EXP 	slider_arousal: autoLog = True
+5.3621 	EXP 	slider_arousal: style = ('rating',)
+5.3621 	EXP 	text_6: text = 'coward'
+5.3621 	EXP 	image_1: image = None
+5.3621 	EXP 	slider_valence: markerPos = None
+5.3621 	EXP 	slider_valence: markerPos = None
+5.3621 	EXP 	slider_valence: rating = None
+5.3621 	EXP 	text_6: autoDraw = True
+5.3621 	EXP 	image_1: autoDraw = True
+5.3621 	EXP 	ValenceImg: autoDraw = True
+5.3621 	EXP 	slider_valence: autoDraw = True
+5.3621 	EXP 	text: autoDraw = True
+5.3621 	EXP 	text_3: autoDraw = True
+6.2029 	DATA 	Keypress: space
+6.2242 	EXP 	text_6: autoDraw = False
+6.2242 	EXP 	image_1: autoDraw = False
+6.2242 	EXP 	ValenceImg: autoDraw = False
+6.2242 	EXP 	slider_valence: autoDraw = False
+6.2242 	EXP 	text: autoDraw = False
+6.2242 	EXP 	text_3: autoDraw = False
+6.2242 	EXP 	text_5: text = 'coward'
+6.2242 	EXP 	image_2: image = None
+6.2242 	EXP 	slider_arousal: markerPos = None
+6.2242 	EXP 	slider_arousal: markerPos = None
+6.2242 	EXP 	slider_arousal: rating = None
+6.2242 	EXP 	text_5: autoDraw = True
+6.2242 	EXP 	image_2: autoDraw = True
+6.2242 	EXP 	Arousalimage: autoDraw = True
+6.2242 	EXP 	slider_arousal: autoDraw = True
+6.2242 	EXP 	text_2: autoDraw = True
+6.2242 	EXP 	text_4: autoDraw = True
+7.0832 	DATA 	Keypress: space
+7.0840 	EXP 	New trial (rep=0, index=1): OrderedDict([('words', 'cozy'), ('images', None)])
+7.0997 	EXP 	text_5: autoDraw = False
+7.0997 	EXP 	image_2: autoDraw = False
+7.0997 	EXP 	Arousalimage: autoDraw = False
+7.0997 	EXP 	slider_arousal: autoDraw = False
+7.0997 	EXP 	text_2: autoDraw = False
+7.0997 	EXP 	text_4: autoDraw = False
+7.0997 	EXP 	text_6: text = 'cozy'
+7.0997 	EXP 	image_1: image = None
+7.0997 	EXP 	slider_valence: markerPos = None
+7.0997 	EXP 	slider_valence: markerPos = None
+7.0997 	EXP 	slider_valence: rating = None
+7.0997 	EXP 	text_6: autoDraw = True
+7.0997 	EXP 	image_1: autoDraw = True
+7.0997 	EXP 	ValenceImg: autoDraw = True
+7.0997 	EXP 	slider_valence: autoDraw = True
+7.0997 	EXP 	text: autoDraw = True
+7.0997 	EXP 	text_3: autoDraw = True
+8.3047 	DATA 	Keypress: space
+8.3366 	EXP 	text_6: autoDraw = False
+8.3366 	EXP 	image_1: autoDraw = False
+8.3366 	EXP 	ValenceImg: autoDraw = False
+8.3366 	EXP 	slider_valence: autoDraw = False
+8.3366 	EXP 	text: autoDraw = False
+8.3366 	EXP 	text_3: autoDraw = False
+8.3366 	EXP 	text_5: text = 'cozy'
+8.3366 	EXP 	image_2: image = None
+8.3366 	EXP 	slider_arousal: markerPos = None
+8.3366 	EXP 	slider_arousal: markerPos = None
+8.3366 	EXP 	slider_arousal: rating = None
+8.3366 	EXP 	text_5: autoDraw = True
+8.3366 	EXP 	image_2: autoDraw = True
+8.3366 	EXP 	Arousalimage: autoDraw = True
+8.3366 	EXP 	slider_arousal: autoDraw = True
+8.3366 	EXP 	text_2: autoDraw = True
+8.3366 	EXP 	text_4: autoDraw = True
+12.4669 	DATA 	Keypress: space
+12.4688 	EXP 	New trial (rep=0, index=2): OrderedDict([('words', 'startled'), ('images', None)])
+12.4854 	EXP 	text_5: autoDraw = False
+12.4854 	EXP 	image_2: autoDraw = False
+12.4854 	EXP 	Arousalimage: autoDraw = False
+12.4854 	EXP 	slider_arousal: autoDraw = False
+12.4854 	EXP 	text_2: autoDraw = False
+12.4854 	EXP 	text_4: autoDraw = False
+12.4854 	EXP 	text_6: text = 'startled'
+12.4854 	EXP 	image_1: image = None
+12.4854 	EXP 	slider_valence: markerPos = None
+12.4854 	EXP 	slider_valence: markerPos = None
+12.4854 	EXP 	slider_valence: rating = None
+12.4854 	EXP 	text_6: autoDraw = True
+12.4854 	EXP 	image_1: autoDraw = True
+12.4854 	EXP 	ValenceImg: autoDraw = True
+12.4854 	EXP 	slider_valence: autoDraw = True
+12.4854 	EXP 	text: autoDraw = True
+12.4854 	EXP 	text_3: autoDraw = True
+13.1038 	DATA 	Keypress: space
+13.1361 	EXP 	text_6: autoDraw = False
+13.1361 	EXP 	image_1: autoDraw = False
+13.1361 	EXP 	ValenceImg: autoDraw = False
+13.1361 	EXP 	slider_valence: autoDraw = False
+13.1361 	EXP 	text: autoDraw = False
+13.1361 	EXP 	text_3: autoDraw = False
+13.1361 	EXP 	text_5: text = 'startled'
+13.1361 	EXP 	image_2: image = None
+13.1361 	EXP 	slider_arousal: markerPos = None
+13.1361 	EXP 	slider_arousal: markerPos = None
+13.1361 	EXP 	slider_arousal: rating = None
+13.1361 	EXP 	text_5: autoDraw = True
+13.1361 	EXP 	image_2: autoDraw = True
+13.1361 	EXP 	Arousalimage: autoDraw = True
+13.1361 	EXP 	slider_arousal: autoDraw = True
+13.1361 	EXP 	text_2: autoDraw = True
+13.1361 	EXP 	text_4: autoDraw = True
+14.0157 	DATA 	Keypress: space
+14.0163 	EXP 	New trial (rep=0, index=3): OrderedDict([('words', None), ('images', 'Pictures/1052.jpg')])
+14.0473 	EXP 	text_5: autoDraw = False
+14.0473 	EXP 	image_2: autoDraw = False
+14.0473 	EXP 	Arousalimage: autoDraw = False
+14.0473 	EXP 	slider_arousal: autoDraw = False
+14.0473 	EXP 	text_2: autoDraw = False
+14.0473 	EXP 	text_4: autoDraw = False
+14.0473 	EXP 	text_6: text = 'startled'
+14.0473 	EXP 	image_1: image = 'Pictures/1052.jpg'
+14.0473 	EXP 	slider_valence: markerPos = None
+14.0473 	EXP 	slider_valence: markerPos = None
+14.0473 	EXP 	slider_valence: rating = None
+14.0473 	EXP 	text_6: autoDraw = True
+14.0473 	EXP 	image_1: autoDraw = True
+14.0473 	EXP 	ValenceImg: autoDraw = True
+14.0473 	EXP 	slider_valence: autoDraw = True
+14.0473 	EXP 	text: autoDraw = True
+14.0473 	EXP 	text_3: autoDraw = True
+14.5998 	DATA 	Keypress: space
+14.6521 	EXP 	text_6: autoDraw = False
+14.6521 	EXP 	image_1: autoDraw = False
+14.6521 	EXP 	ValenceImg: autoDraw = False
+14.6521 	EXP 	slider_valence: autoDraw = False
+14.6521 	EXP 	text: autoDraw = False
+14.6521 	EXP 	text_3: autoDraw = False
+14.6521 	EXP 	text_5: text = 'startled'
+14.6521 	EXP 	image_2: image = 'Pictures/1052.jpg'
+14.6521 	EXP 	slider_arousal: markerPos = None
+14.6521 	EXP 	slider_arousal: markerPos = None
+14.6521 	EXP 	slider_arousal: rating = None
+14.6521 	EXP 	text_5: autoDraw = True
+14.6521 	EXP 	image_2: autoDraw = True
+14.6521 	EXP 	Arousalimage: autoDraw = True
+14.6521 	EXP 	slider_arousal: autoDraw = True
+14.6521 	EXP 	text_2: autoDraw = True
+14.6521 	EXP 	text_4: autoDraw = True
+15.6834 	DATA 	Keypress: escape
+15.7197 	EXP 	window1: mouseVisible = True

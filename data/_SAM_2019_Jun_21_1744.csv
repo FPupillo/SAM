@@ -1,0 +1,4 @@
+﻿words,images,trials_3.thisRepN,trials_3.thisTrialN,trials_3.thisN,trials_3.thisIndex,slider_valence.response,slider_arousal.response,slider_arousal.rt,group,participant,session,date,expName,psychopyVersion,frameRate,
+None,Pictures/1040.jpg,0,0,0,12,None,71.0,2.6073017114467802,A,,001,2019_Jun_21_1744,SAM,3.0.6,60.0129567843555,
+None,Pictures/1080.jpg,0,1,1,17,71.0,44.0,0.64306600791042,A,,001,2019_Jun_21_1744,SAM,3.0.6,60.0129567843555,
+None,Pictures/1051.jpg,0,2,2,14,26.0,15.0,0.6263701856832995,A,,001,2019_Jun_21_1744,SAM,3.0.6,60.0129567843555,

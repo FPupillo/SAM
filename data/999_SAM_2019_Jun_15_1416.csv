@@ -1,0 +1,13 @@
+﻿folder,pictures,file,type,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,slider_valence.response,slider_arousal.response,slider_arousal.rt,participant,session,date,expName,psychopyVersion,frameRate
+Pictures/,1040.jpg,Pictures/1040.jpg,NegH,0,0,0,0,85,98,3.961181041,999,1,2019_Jun_15_1416,SAM,3.0.6,59.83011479
+Pictures/,1050.jpg,Pictures/1050.jpg,NegL,0,1,1,1,50,8,1.164485478,999,1,2019_Jun_15_1416,SAM,3.0.6,59.83011479
+Pictures/,1051.jpg,Pictures/1051.jpg,PosH,0,2,2,2,95,9,1.260250415,999,1,2019_Jun_15_1416,SAM,3.0.6,59.83011479
+Pictures/,1052.jpg,Pictures/1052.jpg,PosL,0,3,3,3,89,19,1.02026194,999,1,2019_Jun_15_1416,SAM,3.0.6,59.83011479
+Pictures/,1070.jpg,Pictures/1070.jpg,NeuH,0,4,4,4,88,15,1.05350674,999,1,2019_Jun_15_1416,SAM,3.0.6,59.83011479
+Pictures/,1080.jpg,Pictures/1080.jpg,NehL,0,5,5,5,86,11,0.869322144,999,1,2019_Jun_15_1416,SAM,3.0.6,59.83011479
+Pictures/,1040.jpg,Pictures/1040.jpg,NegH,1,0,6,0,88,14,1.016595309,999,1,2019_Jun_15_1416,SAM,3.0.6,59.83011479
+Pictures/,1050.jpg,Pictures/1050.jpg,NegL,1,1,7,1,82,14,2.537866315,999,1,2019_Jun_15_1416,SAM,3.0.6,59.83011479
+Pictures/,1051.jpg,Pictures/1051.jpg,PosH,1,2,8,2,86,15,0.980351863,999,1,2019_Jun_15_1416,SAM,3.0.6,59.83011479
+Pictures/,1052.jpg,Pictures/1052.jpg,PosL,1,3,9,3,80,17,0.858437654,999,1,2019_Jun_15_1416,SAM,3.0.6,59.83011479
+Pictures/,1070.jpg,Pictures/1070.jpg,NeuH,1,4,10,4,87,15,0.951156652,999,1,2019_Jun_15_1416,SAM,3.0.6,59.83011479
+Pictures/,1080.jpg,Pictures/1080.jpg,NehL,1,5,11,5,92,9,1.01697639,999,1,2019_Jun_15_1416,SAM,3.0.6,59.83011479

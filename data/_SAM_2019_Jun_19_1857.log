@@ -1,0 +1,213 @@
+4.3324 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000028EB0778EB8>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000028EB0E2F390>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1280, 1024]), stereo=False, units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.3325 	EXP 	window1: recordFrameIntervals = False
+4.4991 	EXP 	window1: recordFrameIntervals = True
+4.6825 	EXP 	window1: recordFrameIntervals = False
+4.6878 	EXP 	Created image_1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_1', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), size=array([1., 1.]), texRes=128, units='norm', win=Window(...))
+4.6921 	EXP 	Created ValenceImg = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sam image.png', interpolate=True, mask=None, maskParams=None, name='ValenceImg', opacity=1.0, ori=0.0, pos=array([ 0. , -0.3]), size=array([1.0125    , 0.30078125]), texRes=128, units='norm', win=Window(...))
+4.6993 	EXP 	Created unnamed GratingStim = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, autoDraw=False, autoLog=True, blendmode='avg', color='LightGray', colorSpace='named', contrast=1.0, depth=0, interpolate=False, mask='none', maskParams=None, name='unnamed GratingStim', opacity=1.0, ori=0.0, phase=array([0., 0.]), pos=array([ 0. , -0.7]), rgbPedestal=array([0., 0., 0.]), sf=array([0., 0.]), size=array([1.  , 0.01]), tex='sin', texRes=128, units='norm', win=Window(...))
+4.7019 	EXP 	Created unnamed ElementArrayStim = ElementArrayStim(__class__=type(...), autoLog=True, colorSpace='named', colors='LightGray', contrs=array([1., 1., 1., 1., 1.]), depths=0, elementMask=method-wrapper(...), elementTex=method-wrapper(...), fieldDepth=0, fieldPos=array([0., 0.]), fieldShape='circle', fieldSize=array([1., 1.]), interpolate=True, maskParams=None, nElements=5, name='unnamed ElementArrayStim', opacities=array([1., 1., 1., 1., 1.]), oris=array([0., 0., 0., 0., 0.]), phases=ndarray(...), rgbs=ndarray(...), sfs=ndarray(...), sizes=ndarray(...), texRes=48, units='norm', win=Window(...), xys=ndarray(...))
+4.7036 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0, fillColor='red', fillColorSpace='named', fillRGB=array([255.,   0.,   0.]), interpolate=True, lineColor='red', lineColorSpace='named', lineRGB=array([255.,   0.,   0.]), lineWidth=1.5, name='unnamed Circle', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([0.05  , 0.0625]), units='norm', vertices=ndarray(...), win=Window(...))
+4.7042 	EXP 	Created unnamed Rect = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', fillRGB=None, interpolate=True, lineColor='DarkGrey', lineColorSpace='named', lineRGB=array([169., 169., 169.]), lineWidth=1.5, name='unnamed Rect', opacity=1.0, ori=array(0.), pos=array([ 0. , -0.7]), size=array([1., 1.]), units='norm', vertices=ndarray(...), win=Window(...))
+4.7045 	EXP 	Created slider_valence = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, color='LightGray', depth=0, flip=False, font='HelveticaBold', granularity=1, labelHeight=0.05, labels=None, name='slider_valence', pos=(0, -0.7), readOnly=False, self=UNKNOWN, size=(1, 0.05), style=method-wrapper(...), ticks=array([  1,  25,  50,  75, 100]), units='norm', win=Window(...))
+4.7634 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([ 0. , -0.5]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=2)
+4.7843 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0, pos=array([ 0. , -0.9]), rgb=array([255., 255., 255.]), text='Press the space bar to continue', units='norm', win=Window(...), wrapWidth=2)
+4.7863 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1.0, ori=0.0, pos=array([0.  , 0.23]), size=array([0.5, 0.5]), texRes=128, units='norm', win=Window(...))
+4.7907 	EXP 	Created Arousalimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sam arousal.png', interpolate=True, mask=None, maskParams=None, name='Arousalimage', opacity=1.0, ori=0.0, pos=array([ 0.  , -0.15]), size=array([1.0109375 , 0.29882812]), texRes=128, units='norm', win=Window(...))
+4.7927 	EXP 	Created unnamed GratingStim = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, autoDraw=False, autoLog=True, blendmode='avg', color='LightGray', colorSpace='named', contrast=1.0, depth=0, interpolate=False, mask='none', maskParams=None, name='unnamed GratingStim', opacity=1.0, ori=0.0, phase=array([0., 0.]), pos=array([ 0. , -0.3]), rgbPedestal=array([0., 0., 0.]), sf=array([0., 0.]), size=array([20. ,  0.2]), tex='sin', texRes=128, units='norm', win=Window(...))
+4.7949 	EXP 	Created unnamed ElementArrayStim = ElementArrayStim(__class__=type(...), autoLog=True, colorSpace='named', colors='LightGray', contrs=array([1., 1., 1., 1., 1.]), depths=0, elementMask=method-wrapper(...), elementTex=method-wrapper(...), fieldDepth=0, fieldPos=array([0., 0.]), fieldShape='circle', fieldSize=array([1., 1.]), interpolate=True, maskParams=None, nElements=5, name='unnamed ElementArrayStim', opacities=array([1., 1., 1., 1., 1.]), oris=array([0., 0., 0., 0., 0.]), phases=ndarray(...), rgbs=ndarray(...), sfs=ndarray(...), sizes=ndarray(...), texRes=48, units='norm', win=Window(...), xys=ndarray(...))
+4.7965 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0, fillColor='red', fillColorSpace='named', fillRGB=array([255.,   0.,   0.]), interpolate=True, lineColor='red', lineColorSpace='named', lineRGB=array([255.,   0.,   0.]), lineWidth=1.5, name='unnamed Circle', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([0.05  , 0.0625]), units='norm', vertices=ndarray(...), win=Window(...))
+4.7972 	EXP 	Created unnamed Rect = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', fillRGB=None, interpolate=True, lineColor='DarkGrey', lineColorSpace='named', lineRGB=array([169., 169., 169.]), lineWidth=1.5, name='unnamed Rect', opacity=1.0, ori=array(0.), pos=array([ 0. , -0.3]), size=array([1., 1.]), units='norm', vertices=ndarray(...), win=Window(...))
+4.7974 	EXP 	Created slider_arousal = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, color='LightGray', depth=0, flip=False, font='HelveticaBold', granularity=1, labelHeight=0.05, labels=None, name='slider_arousal', pos=(0, -0.3), readOnly=False, self=UNKNOWN, size=(20, 0.05), style=method-wrapper(...), ticks=array([  1,  25,  50,  75, 100]), units='norm', win=Window(...))
+4.8165 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([ 0. , -0.5]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+4.8312 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0, pos=array([ 0.  , -0.45]), rgb=array([255., 255., 255.]), text='Press the space bar to continue', units='norm', win=Window(...), wrapWidth=1)
+4.8456 	EXP 	Imported Cues.xlsx as conditions, 6 conditions, 4 params
+4.8459 	EXP 	Created sequence: sequential, trialTypes=6, nReps=1, seed=None
+4.8462 	EXP 	New trial (rep=0, index=0): OrderedDict([('folder', 'Pictures/'), ('pictures', '1040.jpg'), ('file', 'Pictures/1040.jpg'), ('type', 'NegH')])
+4.9103 	EXP 	slider_valence: autoLog = True
+4.9103 	EXP 	slider_valence: markerPos = None
+4.9103 	EXP 	slider_valence: rating = None
+4.9103 	EXP 	slider_valence: markerPos = None
+4.9103 	EXP 	unnamed Circle: contrast = 1.0
+4.9103 	EXP 	unnamed GratingStim: contrast = 1.0
+4.9103 	EXP 	slider_valence: contrast = 1.0
+4.9103 	EXP 	slider_valence: autoLog = True
+4.9103 	EXP 	slider_valence: style = ('rating',)
+4.9103 	EXP 	slider_arousal: autoLog = True
+4.9103 	EXP 	slider_arousal: markerPos = None
+4.9103 	EXP 	slider_arousal: rating = None
+4.9103 	EXP 	slider_arousal: markerPos = None
+4.9103 	EXP 	unnamed Circle: contrast = 1.0
+4.9103 	EXP 	unnamed GratingStim: contrast = 1.0
+4.9103 	EXP 	slider_arousal: contrast = 1.0
+4.9103 	EXP 	slider_arousal: autoLog = True
+4.9103 	EXP 	slider_arousal: style = ('rating',)
+4.9103 	EXP 	image_1: image = 'Pictures/1040.jpg'
+4.9103 	EXP 	slider_valence: markerPos = None
+4.9103 	EXP 	slider_valence: markerPos = None
+4.9103 	EXP 	slider_valence: rating = None
+4.9103 	EXP 	image_1: autoDraw = True
+4.9103 	EXP 	ValenceImg: autoDraw = True
+4.9103 	EXP 	slider_valence: autoDraw = True
+4.9103 	EXP 	text: autoDraw = True
+4.9103 	EXP 	text_3: autoDraw = True
+15.4476 	DATA 	Mouse: Left button down, pos=(635,147)
+15.4638 	EXP 	slider_valence: markerPos = 49.7265625
+15.4638 	EXP 	unnamed Circle: pos = array([[-0.00505051, -0.7       ]])
+15.4806 	EXP 	slider_valence: markerPos = 49.7265625
+15.4971 	EXP 	slider_valence: markerPos = 49.7265625
+15.5140 	EXP 	slider_valence: markerPos = 49.7265625
+15.5303 	EXP 	slider_valence: markerPos = 49.7265625
+15.5313 	DATA 	Mouse:  Left button up, pos=(635,147)
+15.5471 	EXP 	slider_valence: markerPos = 50.0
+15.5471 	EXP 	slider_valence: rating = 50.0
+15.5471 	EXP 	unnamed Circle: pos = array([[-0.00505051, -0.7       ]])
+16.2155 	DATA 	Mouse: Left button down, pos=(742,156)
+16.2305 	EXP 	slider_valence: markerPos = 66.278125
+16.2305 	EXP 	unnamed Circle: pos = array([[ 0.15656566, -0.7       ]])
+16.2476 	EXP 	slider_valence: markerPos = 66.278125
+16.2638 	EXP 	slider_valence: markerPos = 66.278125
+16.2642 	DATA 	Mouse:  Left button up, pos=(742,156)
+16.2802 	EXP 	slider_valence: markerPos = 66.0
+16.2802 	EXP 	slider_valence: rating = 66.0
+16.2802 	EXP 	unnamed Circle: pos = array([[ 0.15656566, -0.7       ]])
+17.0974 	DATA 	Mouse: Left button down, pos=(755,313)
+17.1822 	DATA 	Mouse:  Left button up, pos=(755,313)
+17.8804 	DATA 	Mouse: Left button down, pos=(837,160)
+17.8970 	EXP 	slider_valence: markerPos = 80.9734375
+17.8970 	EXP 	unnamed Circle: pos = array([[ 0.30808081, -0.7       ]])
+17.9135 	EXP 	slider_valence: markerPos = 80.9734375
+17.9303 	EXP 	slider_valence: markerPos = 80.9734375
+17.9480 	EXP 	slider_valence: markerPos = 80.9734375
+17.9640 	EXP 	slider_valence: markerPos = 80.9734375
+17.9803 	EXP 	slider_valence: markerPos = 80.9734375
+17.9816 	DATA 	Mouse:  Left button up, pos=(837,160)
+17.9968 	EXP 	slider_valence: markerPos = 81.0
+17.9968 	EXP 	slider_valence: rating = 81.0
+17.9968 	EXP 	unnamed Circle: pos = array([[ 0.30808081, -0.7       ]])
+18.5638 	DATA 	Mouse: Left button down, pos=(674,151)
+18.5802 	EXP 	slider_valence: markerPos = 55.759375
+18.5802 	EXP 	unnamed Circle: pos = array([[ 0.05555556, -0.7       ]])
+18.5971 	EXP 	slider_valence: markerPos = 55.759375
+18.6135 	EXP 	slider_valence: markerPos = 55.759375
+18.6305 	EXP 	slider_valence: markerPos = 55.759375
+18.6470 	EXP 	slider_valence: markerPos = 55.759375
+18.6479 	DATA 	Mouse:  Left button up, pos=(674,151)
+18.6633 	EXP 	slider_valence: markerPos = 56.0
+18.6633 	EXP 	slider_valence: rating = 56.0
+18.6633 	EXP 	unnamed Circle: pos = array([[ 0.05555556, -0.7       ]])
+20.2476 	DATA 	Mouse: Left button down, pos=(582,159)
+20.2634 	EXP 	slider_valence: markerPos = 41.528124999999996
+20.2634 	EXP 	unnamed Circle: pos = array([[-0.08585859, -0.7       ]])
+20.2799 	EXP 	slider_valence: markerPos = 41.528124999999996
+20.2967 	EXP 	slider_valence: markerPos = 41.528124999999996
+20.3138 	EXP 	slider_valence: markerPos = 41.528124999999996
+20.3299 	EXP 	slider_valence: markerPos = 41.528124999999996
+20.3305 	DATA 	Mouse:  Left button up, pos=(582,159)
+20.3469 	EXP 	slider_valence: markerPos = 42.0
+20.3469 	EXP 	slider_valence: rating = 42.0
+20.3469 	EXP 	unnamed Circle: pos = array([[-0.08585859, -0.7       ]])
+22.7676 	DATA 	Mouse: Left button down, pos=(388,159)
+22.7965 	EXP 	slider_valence: markerPos = 11.51875
+22.7965 	EXP 	unnamed Circle: pos = array([[-0.38888889, -0.7       ]])
+22.8129 	EXP 	slider_valence: markerPos = 11.51875
+22.8296 	EXP 	slider_valence: markerPos = 11.51875
+22.8465 	EXP 	slider_valence: markerPos = 11.51875
+22.8628 	EXP 	slider_valence: markerPos = 11.51875
+22.8631 	DATA 	Mouse:  Left button up, pos=(388,159)
+22.8799 	EXP 	slider_valence: markerPos = 12.0
+22.8799 	EXP 	slider_valence: rating = 12.0
+22.8799 	EXP 	unnamed Circle: pos = array([[-0.38888889, -0.7       ]])
+24.9320 	DATA 	Mouse: Left button down, pos=(924,182)
+25.0298 	DATA 	Mouse:  Left button up, pos=(924,182)
+25.3297 	DATA 	Mouse: Left button down, pos=(912,151)
+25.3460 	EXP 	slider_valence: markerPos = 92.575
+25.3460 	EXP 	unnamed Circle: pos = array([[ 0.42929293, -0.7       ]])
+25.3627 	EXP 	slider_valence: markerPos = 92.575
+25.3796 	EXP 	slider_valence: markerPos = 92.575
+25.3959 	EXP 	slider_valence: markerPos = 92.575
+25.4128 	EXP 	slider_valence: markerPos = 92.575
+25.4293 	EXP 	slider_valence: markerPos = 92.575
+25.4310 	DATA 	Mouse:  Left button up, pos=(912,151)
+25.4462 	EXP 	slider_valence: markerPos = 93.0
+25.4462 	EXP 	slider_valence: rating = 93.0
+25.4462 	EXP 	unnamed Circle: pos = array([[ 0.42929293, -0.7       ]])
+31.6134 	DATA 	Keypress: space
+31.6514 	EXP 	image_1: autoDraw = False
+31.6514 	EXP 	ValenceImg: autoDraw = False
+31.6514 	EXP 	slider_valence: autoDraw = False
+31.6514 	EXP 	text: autoDraw = False
+31.6514 	EXP 	text_3: autoDraw = False
+31.6514 	EXP 	image_2: image = 'Pictures/1040.jpg'
+31.6514 	EXP 	slider_arousal: markerPos = None
+31.6514 	EXP 	slider_arousal: markerPos = None
+31.6514 	EXP 	slider_arousal: rating = None
+31.6514 	EXP 	image_2: autoDraw = True
+31.6514 	EXP 	Arousalimage: autoDraw = True
+31.6514 	EXP 	slider_arousal: autoDraw = True
+31.6514 	EXP 	text_2: autoDraw = True
+31.6514 	EXP 	text_4: autoDraw = True
+32.4957 	DATA 	Mouse: Left button down, pos=(795,322)
+32.5981 	DATA 	Mouse:  Left button up, pos=(795,322)
+33.2960 	DATA 	Keypress: space
+33.2973 	EXP 	New trial (rep=0, index=1): OrderedDict([('folder', 'Pictures/'), ('pictures', '1050.jpg'), ('file', 'Pictures/1050.jpg'), ('type', 'NegL')])
+33.3757 	EXP 	image_2: autoDraw = False
+33.3757 	EXP 	Arousalimage: autoDraw = False
+33.3757 	EXP 	slider_arousal: autoDraw = False
+33.3757 	EXP 	text_2: autoDraw = False
+33.3757 	EXP 	text_4: autoDraw = False
+33.3757 	EXP 	image_1: image = 'Pictures/1050.jpg'
+33.3757 	EXP 	slider_valence: markerPos = None
+33.3757 	EXP 	slider_valence: markerPos = None
+33.3757 	EXP 	slider_valence: rating = None
+33.3757 	EXP 	image_1: autoDraw = True
+33.3757 	EXP 	ValenceImg: autoDraw = True
+33.3757 	EXP 	slider_valence: autoDraw = True
+33.3757 	EXP 	text: autoDraw = True
+33.3757 	EXP 	text_3: autoDraw = True
+34.9118 	DATA 	Mouse: Left button down, pos=(381,160)
+34.9285 	EXP 	slider_valence: markerPos = 10.435937500000001
+34.9285 	EXP 	unnamed Circle: pos = array([[-0.40909091, -0.7       ]])
+34.9451 	EXP 	slider_valence: markerPos = 10.435937500000001
+34.9618 	EXP 	slider_valence: markerPos = 10.435937500000001
+34.9655 	DATA 	Mouse:  Left button up, pos=(381,160)
+34.9781 	EXP 	slider_valence: markerPos = 10.435937500000001
+34.9950 	EXP 	slider_valence: markerPos = 10.0
+34.9950 	EXP 	slider_valence: rating = 10.0
+34.9950 	EXP 	unnamed Circle: pos = array([[-0.40909091, -0.7       ]])
+36.6622 	DATA 	Mouse: Left button down, pos=(850,159)
+36.6781 	EXP 	slider_valence: markerPos = 82.984375
+36.6781 	EXP 	unnamed Circle: pos = array([[ 0.32828283, -0.7       ]])
+36.6946 	EXP 	slider_valence: markerPos = 82.984375
+36.7116 	EXP 	slider_valence: markerPos = 82.984375
+36.7280 	EXP 	slider_valence: markerPos = 82.984375
+36.7450 	EXP 	slider_valence: markerPos = 82.984375
+36.7468 	DATA 	Mouse:  Left button up, pos=(850,159)
+36.7626 	EXP 	slider_valence: markerPos = 83.0
+36.7626 	EXP 	slider_valence: rating = 83.0
+36.7626 	EXP 	unnamed Circle: pos = array([[ 0.32828283, -0.7       ]])
+39.1780 	DATA 	Mouse: Left button down, pos=(786,152)
+39.1942 	EXP 	slider_valence: markerPos = 73.08437500000001
+39.1942 	EXP 	unnamed Circle: pos = array([[ 0.22727273, -0.7       ]])
+39.2112 	EXP 	slider_valence: markerPos = 73.08437500000001
+39.2280 	EXP 	slider_valence: markerPos = 73.08437500000001
+39.2446 	EXP 	slider_valence: markerPos = 73.08437500000001
+39.2617 	EXP 	slider_valence: markerPos = 73.08437500000001
+39.2777 	EXP 	slider_valence: markerPos = 73.08437500000001
+39.2781 	DATA 	Mouse:  Left button up, pos=(786,152)
+39.2947 	EXP 	slider_valence: markerPos = 73.0
+39.2947 	EXP 	slider_valence: rating = 73.0
+39.2947 	EXP 	unnamed Circle: pos = array([[ 0.22727273, -0.7       ]])
+39.6945 	DATA 	Mouse: Left button down, pos=(745,149)
+39.7108 	EXP 	slider_valence: markerPos = 66.7421875
+39.7108 	EXP 	unnamed Circle: pos = array([[ 0.16666667, -0.7       ]])
+39.7275 	EXP 	slider_valence: markerPos = 66.7421875
+39.7444 	EXP 	slider_valence: markerPos = 66.7421875
+39.7618 	EXP 	slider_valence: markerPos = 66.7421875
+39.7785 	EXP 	slider_valence: markerPos = 66.7421875
+39.7943 	EXP 	slider_valence: markerPos = 66.7421875
+39.7947 	DATA 	Mouse:  Left button up, pos=(745,149)
+39.8112 	EXP 	slider_valence: markerPos = 67.0
+39.8112 	EXP 	slider_valence: rating = 67.0
+39.8112 	EXP 	unnamed Circle: pos = array([[ 0.16666667, -0.7       ]])
+46.9780 	DATA 	Keypress: escape
+47.0068 	EXP 	window1: mouseVisible = True

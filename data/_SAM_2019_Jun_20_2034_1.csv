@@ -1,0 +1,5 @@
+﻿words,images,trials_3.thisRepN,trials_3.thisTrialN,trials_3.thisN,trials_3.thisIndex,slider_valence.response,slider_arousal.response,slider_arousal.rt,group,participant,session,date,expName,psychopyVersion,frameRate,
+coward,None,0,0,0,5,None,None,None,A,,001,2019_Jun_20_2034,SAM,3.0.6,60.22876663069663,
+cozy,None,0,1,1,6,None,None,None,A,,001,2019_Jun_20_2034,SAM,3.0.6,60.22876663069663,
+startled,None,0,2,2,2,None,None,None,A,,001,2019_Jun_20_2034,SAM,3.0.6,60.22876663069663,
+,,,,,,None,,,,,,,,,,
